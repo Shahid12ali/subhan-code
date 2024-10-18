@@ -1,0 +1,9 @@
+.service-page {
+    background-color: rgb(45, 55, 75);
+    padding: 50px;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
